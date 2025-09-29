@@ -6,10 +6,11 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Silvia Milena Pazmiño Montes
+* Ocupación: Estudiante
+* Lugar de residencia: Ecuador
+
 ## Proyectos
 * [Lista de tus proyectos]
-## Intereses
+## Redes
+LinkedIn: [https://ec.linkedin.com/in/milena-pazmino-montes]{https://ec.linkedin.com/in/milena-pazmino-montes}

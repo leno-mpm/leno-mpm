@@ -13,4 +13,4 @@ proyectos y mis intereses.
 ## Proyectos
 * [Lista de tus proyectos]
 ## Redes
-LinkedIn: [https://ec.linkedin.com/in/milena-pazmino-montes]{https://ec.linkedin.com/in/milena-pazmino-montes}
+LinkedIn: [https://ec.linkedin.com/in/milena-pazmino-montes](https://ec.linkedin.com/in/milena-pazmino-montes)

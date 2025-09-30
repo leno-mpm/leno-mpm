@@ -14,3 +14,8 @@ proyectos y mis intereses.
 * [Lista de tus proyectos]
 ## Redes
 LinkedIn: [https://ec.linkedin.com/in/milena-pazmino-montes](https://ec.linkedin.com/in/milena-pazmino-montes)
+
+
+![leno-mpm's Stats](https://github-readme-stats.vercel.app/api?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![leno-mpm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leno-mpm&theme=vue-dark&hide_border=true)
+![leno-mpm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

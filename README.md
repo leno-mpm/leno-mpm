@@ -9,17 +9,15 @@
 
 Durante el curso y en mis proyectos, he trabajado con diversas tecnologías y herramientas:  
 
-- **Python**: análisis de datos, procesamiento de lenguaje natural y scripts de automatización.  
-- **R**: análisis estadístico y predicción de rendimiento académico.  
-- **Java**: desarrollo de juegos y estructuras de datos (JuegoUNO, Recursividad).  
-- **SQL / MySQL**: bases de datos, consultas avanzadas, procedimientos almacenados y triggers (Automotriz-Cordova).  
-- **JavaScript**: desarrollo web interactivo (Gira-de-Concierto).  
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) – análisis de datos, PLN y scripts de automatización.  
+- **R** ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) – análisis estadístico y predicción académica.  
+- **Java** ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) – desarrollo de juegos y estructuras de datos.  
+- **SQL / MySQL** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) – bases de datos, procedimientos, triggers y CRUD.  
+- **JavaScript** ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) – desarrollo web interactivo.  
 - **Librerías y frameworks**:  
   - `Pandas`, `NumPy`, `Matplotlib` → análisis y visualización de datos  
-  - `NetworkX` → modelado de grafos y algoritmos de optimización  
-  - `Jupyter Notebook` → documentación y ejecución interactiva de proyectos  
-
-Cada tecnología se aplicó de manera práctica en los proyectos, demostrando **capacidad para resolver problemas concretos y aprender nuevas herramientas de manera autónoma**.
+  - `NetworkX` → modelado de grafos y optimización  
+  - `Jupyter Notebook` → documentación y ejecución interactiva  
 
 ---
 

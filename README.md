@@ -20,17 +20,23 @@
 ---
 
 ## 🚀 Mis proyectos favoritos
-🔹 [**NaturalProcessingLanguage**](#) – Explorando PLN con Jupyter Notebook  
-🔹 [**Proyecto-Estadística**](#) – Predicción del éxito en Data Science con rendimiento académico  
-🔹 [**JuegoUNO**](#) – Juego en Java basado en UNO  
+🔹 [**NaturalProcessingLanguage**](https://github.com/leno-mpm/NaturalProcessingLanguage) – Explorando PLN con Jupyter Notebook  
+🔹 [**Proyecto-Estadística**](https://github.com/leno-mpm/Proyecto-Estad-stica) – Predicción del éxito en Data Science con rendimiento académico  
+🔹 [**JuegoUNO**](https://github.com/leno-mpm/JuegoUNO) – Juego en Java basado en UNO  
 
 ---
 
-## 📈 Mis estadísticas en GitHub
-![leno-mpm's Stats](https://github-readme-stats.vercel.app/api?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![leno-mpm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leno-mpm&theme=vue-dark&hide_border=true)  
-![leno-mpm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
 
+## 📈 Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leno-mpm&theme=vue-dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="120"/>
+</p>
 ---
 
 ## 🌍 Encuéntrame en:

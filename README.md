@@ -20,9 +20,12 @@
 ---
 
 ## 🚀 Mis proyectos favoritos
-🔹 [**NaturalProcessingLanguage**](https://github.com/leno-mpm/NaturalProcessingLanguage) – Explorando PLN con Jupyter Notebook  
-🔹 [**Proyecto-Estadística**](https://github.com/leno-mpm/Proyecto-Estad-stica) – Predicción del éxito en Data Science con rendimiento académico  
-🔹 [**JuegoUNO**](https://github.com/leno-mpm/JuegoUNO) – Juego en Java basado en UNO  
+🔹 [**NaturalProcessingLanguage**](https://github.com/leno-mpm/NaturalProcessingLanguage) – 🧠 Explorando **Procesamiento de Lenguaje Natural (PLN)** con Jupyter Notebook.  
+🔹 [**Proyecto-Estadística**](https://github.com/leno-mpm/Proyecto-Estad-stica) – 📊 Predicción del éxito en **Data Science** a partir del rendimiento académico.  
+🔹 [**JuegoUNO**](https://github.com/leno-mpm/JuegoUNO) – 🎮 Juego en **Java** basado en UNO.  
+🔹 [**Automotriz-Cordova**](https://github.com/leno-mpm/Automotriz-Cordova) – 🚗 Sistema de **gestión de inventario** para empresa automotriz con **CRUD, SQL, procedimientos y triggers**.  
+🔹 [**Gira-de-Concierto**](https://github.com/leno-mpm/Gira-de-Concierto) – 🎤 Solución al **Problema del Agente Viajero** para planificar la ruta más corta en una gira musical.  
+
 
 ---
 

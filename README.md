@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="300"/>
 </p>
 ---
 

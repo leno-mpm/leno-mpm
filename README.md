@@ -9,11 +9,11 @@
 
 Durante el curso y en mis proyectos, he trabajado con diversas tecnologías y herramientas:  
 
-- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) – análisis de datos, PLN y scripts de automatización.  
-- **R** ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) – análisis estadístico y predicción académica.  
-- **Java** ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) – desarrollo de juegos y estructuras de datos.  
-- **SQL / MySQL** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) – bases de datos, procedimientos, triggers y CRUD.  
-- **JavaScript** ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) – desarrollo web interactivo.  
+- **Python** – análisis de datos, PLN y scripts de automatización.  
+- **R** – análisis estadístico y predicción académica.  
+- **Java** – desarrollo de juegos y estructuras de datos.  
+- **SQL / MySQL** – bases de datos, procedimientos, triggers y CRUD.  
+- **JavaScript** – desarrollo web interactivo.  
 - **Librerías y frameworks**:  
   - `Pandas`, `NumPy`, `Matplotlib` → análisis y visualización de datos  
   - `NetworkX` → modelado de grafos y optimización  

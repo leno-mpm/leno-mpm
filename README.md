@@ -37,14 +37,16 @@ Durante mis proyectos y experiencias académicas, he trabajado con diversas tecn
 🔹 [**Gira-de-Concierto**](https://github.com/leno-mpm/Gira-de-Concierto) – 🎤 Solución al **Problema del Agente Viajero** para planificar la ruta más corta en una gira musical en Python y `NetworkX`.
 
 ---
-
 ## 📈 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width=60%/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leno-mpm&theme=vue-dark&hide_border=true" width=60%/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width=60%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="50%"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leno-mpm&theme=vue-dark&hide_border=true" width="50%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="50%"/>
 </p>
+
 
 ---
 

@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leno-mpm/leno-mpm/main/Milena%20Pazmiño.png" alt="Banner de Silvia Milena Pazmiño Montes" width="100%"/>
-</p>
 
 # Silvia Milena Pazmiño Montes
 
@@ -42,9 +39,13 @@ Estudiante de Ingeniería en Computación en ESPOL, con experiencia aplicada en 
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="50%"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leno-mpm&theme=vue-dark&hide_border=true" width="50%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leno-mpm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="50%"/>
 </p>
+
 
 ---
 
